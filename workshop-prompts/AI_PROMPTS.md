@@ -1,6 +1,6 @@
 # AI Prompt Guide
 
-Copy these prompts into your AI coding assistant during the workshop. Replace bracketed text when needed.
+Loo at these prompts for inspiration during the workshop. Replace text when needed.
 
 ## Activity 1 — Meet your AI assistant
 
